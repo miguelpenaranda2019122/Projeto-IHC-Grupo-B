@@ -24,19 +24,19 @@
       </div>
       <div id="container-cards" class="flex justify-between pt-5 gap-6">
          <div id="aulas" class="w-2/6 flex flex-col gap-4">
-            <div class="card-color h-28 rounded-2xl p-1 shadow-xl" style="width: 100%;">
+            <div class="card-color h-28 rounded-2xl p-1 shadow-xl pt-3" style="width: 100%;">
                <h1 class="text-xs text-center">Arquitectura de Dispositivos</h1>
                <p class="text-xxs text-center mt-1">Prof. David Jardim</p>
                <p class="text-xs text-center mt-1 color-text font-bold">9:00-12:30</p>
                <p class="text-xs text-center mt-2 font-bold">AULA 31</p>
             </div>
-            <div class="card-color h-28 rounded-2xl p-1 shadow-xl" style="width: 100%;">
+            <div class="card-color h-28 rounded-2xl p-1 shadow-xl pt-3" style="width: 100%;">
                <h1 class="text-xs text-center">Aplicações Centradas em Redes</h1>
                <p class="text-xxs text-center mt-1">Prof. Hugo Perdigão</p>
                <p class="text-xs text-center mt-1 color-text font-bold">15:00-17:00</p>
                <p class="text-xs text-center mt-2 font-bold">AULA 26</p>
             </div>
-            <div class="card-color h-28 rounded-2xl p-1 shadow-xl" style="width: 100%;">
+            <div class="card-color h-28 rounded-2xl p-1 shadow-xl pt-3" style="width: 100%;">
                <h1 class="text-xs text-center">Interação Humano-Computador</h1>
                <p class="text-xxs text-center mt-1">Prof. Eduardo Teles</p>
                <p class="text-xs text-center mt-1 color-text font-bold">19:00-21:00</p>
